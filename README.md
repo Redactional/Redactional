@@ -15,6 +15,6 @@ Building open-source alternatives to subscription-based software.
 
 **Less subscriptions. More ownership. Better software.**
 
-[Explore Projects](https://github.com/Redactional?tab=repositories) · [Contribute](https://github.com/Redactional)
+[Explore Projects](https://github.com/Redactional?tab=repositories)
 
 </div>
